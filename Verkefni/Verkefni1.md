@@ -3,8 +3,8 @@
 #### Hugmyndavinna og hönnun
 Búið til organization í Github fyrir hópinn ykkar og  búið til Wiki sem inniheldur eftirfarandi:
 
-1. (3%) Ítarleg verkefnalýsing á vef/app.
-1. (4%) Flæðiirit (e. User stories and user flows) fyrir vef/app (skissur)
+1. (3%) Ítarleg verkefnalýsing (e. user stories) á vef/app.
+1. (4%) Flæðirit (e. user flows) fyrir vef/app (skissur)
 1. (8%) Wireframes fyrir vef/app (Skissur eða með hugbúnaði)
 
 #### Námsmat og skil:
