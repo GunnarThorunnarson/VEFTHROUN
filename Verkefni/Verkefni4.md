@@ -6,7 +6,7 @@ Smíða skal vefapp eða vef útfrá verkefnalýsingu. Skoðað eru eftirfarandi
 - Notkun JS framework (t.d. Vue eða Svelte) (10%)
 - Sérvirkni (10%)
 - Beining (e. routing) útfærslur (5%)
-- Uppsetning vefapps á miðlara (5%)
+- Uppsetning og hýsing á vefappi á miðlara (Github Pages)(5%)
 
 <br>
 
