@@ -4,7 +4,7 @@
 Skoðað eru eftirfarandi verkþættir* í þessum hluta vefapps/vefs útfrá verkefnalýsingu:
 
 - Gagnagrunnshönnun og lýsing gagna í vefkerfi (2%)
--	Uppsetning og stilling gagnagrunns eða vefþjónustu (td. API, ORM, SQL stored procedure osfrv). (4%)
+-	Uppsetning og stilling gagnagrunns eða vefþjónustu; API, ORM, SQL osfrv. (4%)
 -	Gagnavinnsla og fyrirspurnir (14%)
  
 _* Hægt er að færa til vægi verkþátta, með samþykki kennara._
