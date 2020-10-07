@@ -1,0 +1,1 @@
+myndir fyrir wiki
