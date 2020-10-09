@@ -5,5 +5,5 @@
 1. Gerið grófa vinnuáætlun með Github Projects.
 
 ### Námsmat og skil
-- Gefið er fullt fyrir þá liði sem eru með fullnægjandi svör, hálft fyrir þá liði sem eru ábótavant. 
+- Gefið er fullt fyrir þá liði sem eru fullnægjandi, hálft fyrir þá liði sem eru ábótavant. 
 - Skilaðu á Innu GitHub slóð (wiki) sem inniheldur skýringar.
