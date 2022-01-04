@@ -1,6 +1,7 @@
-### Verkefni 1 – (10%)
+## Verkefni 1 – (10%)
+- Hugmyndavinna og hönnun
 
-#### Hugmyndavinna og hönnun
+### Verkefnalýsing 
 Búið til organization í Github fyrir hópinn ykkar og búið til Wiki sem inniheldur eftirfarandi:
 
 1. (20%) Ítarleg verkefnalýsing (e. user stories) á vef/app.
