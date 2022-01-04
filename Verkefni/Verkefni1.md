@@ -1,5 +1,9 @@
-## Verkefni 1 – (10%)
+## Verkefni 1 
+
 - Hugmyndavinna og hönnun
+- 10% af heildareinkunn
+
+---
 
 ### Verkefnalýsing 
 Búið til organization í Github fyrir hópinn ykkar og búið til Wiki sem inniheldur eftirfarandi:
