@@ -10,6 +10,7 @@ Búið til organization í Github fyrir hópinn ykkar og búið til Wiki sem inn
 1. (30%) Flæðirit (e. user flows) fyrir vef/app (skissur)
 1. (50%) Wireframes fyrir vef/app (hugbúnaður)
 
-### Námsmat og skil:
+### Námsmat og skil
 * Gefið er fullt fyrir lið sem er fullnægjandi, hálft ef ábótavant.
-* Skilið á Innu GitHub slóð (wiki) sem inniheldur ofangreint.
+* Búið til Github Organization og team (bjóða kennara).
+* Skilið á Innu GitHub slóð (readme.md) sem inniheldur ofangreint.
