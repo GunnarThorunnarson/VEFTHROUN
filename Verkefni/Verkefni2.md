@@ -5,9 +5,11 @@ Skipulag og vinnuflæði í hugbúnaðarþróun, [bjargir](https://github.com/Gu
 ---
 
 #### 1. Vinnuflæði (10%)
+
+Fylgið viðurkenndu vinnuflæði fyrir vefþróun á appi t.d. Feature Branch Workflow eða Git Workflow.
 - Notið helstu aðgerðir í Git og Github fyrir vefþróun.
 - Notið branching í vefþróun.
-- Fylgið viðurkenndu vinnuflæði fyrir vefþróun á appi t.d. Feature Branch Workflow eða Git Workflow.
+- Notið Github Pull request eftir þörfum.
 
 
 #### 2.Skipulag (5%)
