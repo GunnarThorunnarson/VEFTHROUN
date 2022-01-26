@@ -1,6 +1,6 @@
 ## Verkefni 2 (15%)
 
-Unnið er með skipulag og vinnuflæði í þessum hluta vefþróunar, [bjargir](https://github.com/GunnarThorunnarson/VEFTHROUN/wiki/Skipulag-og-vinnufl%C3%A6%C3%B0i)
+Unnið er með skipulag og vinnuflæði í þessum hluta vefþróunar, sjá nánar hér [efni](https://github.com/GunnarThorunnarson/VEFTHROUN/wiki/Skipulag-og-vinnufl%C3%A6%C3%B0i)
 
 ---
 
