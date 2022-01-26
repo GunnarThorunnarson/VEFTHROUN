@@ -3,9 +3,9 @@
 ### Vefforritun 
 Smíða skal vefapp eða vef útfrá verkefnalýsingu. Skoðað eru eftirfarandi þættir í þessum hluta vefapps/vefs:
 
-- Notkun á framework eða hönnunarmynstri (40%)
-- Sérvirkni (40%)
-- Beining (e. routing) útfærslur (20%)
+- Notkun á framework eða hönnunarmynstri 
+- Sérvirkni 
+- Beining (e. routing) útfærslur
 
 ---
 
