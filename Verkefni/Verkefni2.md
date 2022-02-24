@@ -6,15 +6,15 @@ Unnið er með skipulag og vinnuflæði í þessum hluta vefþróunar, sjá nán
 
 #### 1. Vinnuflæði (10%)
 
-Fylgið viðurkenndu vinnuflæði fyrir vefþróun á appi t.d. Feature Branch Workflow eða Git Workflow.
+- Fylgið viðurkenndu vinnuflæði fyrir vefþróun á appi t.d. Feature Branch Workflow eða Git Workflow.
 - Notið helstu aðgerðir í Git og Github fyrir vefþróun.
 - Notið branching í vefþróun.
-- Notið Github Pull request eftir þörfum.
+<!-- - Notið Github Pull request eftir þörfum. -->
 
 
 #### 2.Skipulag (5%)
 - Fylgið [Scrum](https://www.scrum.org/resources/what-is-scrum) aðferðafræði við vefþróun.
-- Gerið viku vinnuáætlun með [Github Projects Boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) (To do, In progress, Done).
+- Gerið viku vinnuáætlun með [Github Projects Boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) (To do, In progress, Done). Sjá [sýnidæmi](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/myndir/Projects.png)
 - Vinnið með [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues#filtering) þegar það á við í Github.
 
 ---
