@@ -41,7 +41,7 @@ Eftirfarandi þarf að vera uppfyllt fyrir lokaskil og námsmat:
     1.	Stillingar og leiðbeiningar fyrir uppsetningu kerfis. 
     1.	Heimildir.
     1.	Vinnuflæði, verkaskipting og verkþættir (e. Github projects). 
-    1.	Samantekt. Hvernig tókst til. Hver væru næstu skref, ókláruð virkni, endurbætur osfrv.
+    1.	Samantekt, hver væru næstu skref, ókláruð virkni, endurbætur osfrv.
 
 
 Skilið á Innu vefslóð á GitHub sem inniheldur öll gögn og vefslóð á miðlara. <br>
