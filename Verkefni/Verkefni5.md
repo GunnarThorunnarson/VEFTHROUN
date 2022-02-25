@@ -27,22 +27,20 @@ Einkunn er byggð á vinnuframlagi og ofangreindum verkþáttum:
 
 Eftirfarandi þarf að vera uppfyllt fyrir lokaskil og námsmat:
 
-1.	Á forsíðu vefapps sem er hýstur á miðlara skal vera tengill á Github.
+1.	Á forsíðu apps, hýstur á miðlara skal vera tengill á Github sem innheldur skýrslu, kóða og gögn.
 2.	Á Github skal vera allur kóði, skrár og gögn (t.d. gagnagrunnur). 
 4.	Í **readme.md** (skýrsla)
     1.	Höfundar, áfangaheiti, Tölvubraut, skóli.
-    1. Tengill á vef á miðlara með keyrandi vef.
-    1.	Verkefnalýsing og útskýring á helstu virkni afurðar
-    1.	Lýsing vefkerfis, hvaða hönnunarmynstur, framework og söfn eru notuð. (e. stack) 
-    1.	Þarfagreining og hönnunarlýsingar. 
-    1.	Gagnagrunnshönnun og lýsing gagna í vefkerfi.
+    1.  Tengill á hýstan vef.
+    1.	Verkefnalýsing (Verkefni 1) og útskýring á notendavirkni afurðar.
+    1.	Tilgreina hönnunarmynstur, framework og söfn sem eru notuð (stack). 
+    1.	Gagnagrunnshönnun, lýsing gagna og aðrar stillingar og leiðbeiningar t.d. uppsetning á hýsingu. 
     1.	Skjámyndir af vefappi
-    1.	Tengill á  youtube með stutta skjámyndsupptöku af notkun vefapps, sjá https://screencast-o-matic.com/ 
-    1.	Stillingar og leiðbeiningar fyrir uppsetningu kerfis. 
+    1.	Tengill á youtube með stutta skjámyndsupptöku af notendavirkni sjá td. https://screencast-o-matic.com/ 
     1.	Heimildir.
-    1.	Vinnuflæði, verkaskipting og verkþættir (e. Github projects). 
-    1.	Samantekt, hver væru næstu skref, ókláruð virkni, endurbætur osfrv.
-
+    1.	Taka fram vinnuflæði og verkaskiptingu (Verkefni 2), tengil á _Github Projects_.  <!-- skjámynd af Network graph (_Insights -> Network_) -->
+    1.	Samantekt. Hver væru næstu skref, ókláruð virkni og verkþættir sem fóru ekki í afurð.
+   
 
 Skilið á Innu vefslóð á GitHub sem inniheldur öll gögn og vefslóð á miðlara. <br>
 Halda þarf stutta kynningu á afurð í kennslustund í síðasta tímanum.
