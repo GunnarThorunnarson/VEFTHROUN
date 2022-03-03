@@ -1,11 +1,12 @@
 ## Verkefni 3 (25%)
 
-### Vef- og viðmótshönnun 
-Smíða skal vefapp eða vef útfrá verkefnalýsingu. Skoðað eru eftirfarandi þættir í þessum hluta:
+### Viðmót
+Hér er metið View hluta í MVC. Smíða skal vefapp eða vef útfrá verkefnalýsingu. Skoðað eru eftirfarandi þættir í þessum hluta:
 
 1. Uppsetning 
     - responsive web design, mobile first.
     - grindur (layout) 
+    - template kerfi.
 1. Viðmót (UI) 
     - leturgerð,litir, útlit og lögun. (CSS)
     - grafík (SVG) 
@@ -13,8 +14,7 @@ Smíða skal vefapp eða vef útfrá verkefnalýsingu. Skoðað eru eftirfarandi
     - einingar (menu, slider, loader osfrv) 
     - kvikun
 1. Notendaupplifun (UX) 
-    - aðgengi
-    - notendavirkni og notkun
+    - notendavirkni og aðgengi
 
 ---
 
