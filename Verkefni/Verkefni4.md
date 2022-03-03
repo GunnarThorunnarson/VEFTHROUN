@@ -1,9 +1,10 @@
 ## Verkefni 4 (25%)
 
 ### Vefforritun 
-Smíða skal vefapp eða vef útfrá verkefnalýsingu. Skoðað eru eftirfarandi þættir í þessum hluta:
+Hér er metið Contorller hluta í MVC. Smíða skal vefapp eða vef útfrá verkefnalýsingu. Skoðað eru eftirfarandi þættir í þessum hluta:
 
-1. Uppsetning og notkun með völdu framework eða hönnunarmynstri 
+1. Uppsetning og notkun með völdu framework (t.d. Flask) eða hönnunarmynstri 
+1. <!-- Notkun á söfnum --> 
 1. Sérvirkni (vefforritun)
 1. Beining (e. routing) útfærslur
 
