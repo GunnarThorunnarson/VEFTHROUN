@@ -4,7 +4,7 @@
 - 10% af heildareinkunn
 
 ### Verkefnalýsing 
-Búið til organization í Github fyrir hópinn ykkar og búið til Wiki sem inniheldur eftirfarandi:
+Búið til organization í Github fyrir hópinn ykkar og búið til readme.md sem inniheldur eftirfarandi:
 
 1. (20%) Ítarleg verkefnalýsing byggð m.a. á notendasögum (user stories) og sviðsmyndum (user scenarios).
 1. (30%) Flæðirit (e. user flows) fyrir vef/app (skissur)
