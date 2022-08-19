@@ -1,4 +1,4 @@
-## Verkefni 2 (15%)
+## Verkefni 2 (15%) _DRÖG Haust2022_
 
 Unnið er með skipulag og vinnuflæði í þessum hluta vefþróunar, sjá nánar hér [efni](https://github.com/GunnarThorunnarson/VEFTHROUN/wiki/Skipulag-og-vinnufl%C3%A6%C3%B0i)
 
