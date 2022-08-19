@@ -12,11 +12,11 @@ Hér er metið Model hluta í MVC. Skoðað eru eftirfarandi verkþættir í þe
 
 ### Námsmat
 
-Einkunn er byggð á vinnuframlagi og ofangreindum verkþáttum:
+Einkunn er byggð á vinnuframlagi í tímum og ofangreindum verkþáttum:
 
 - 0	 Verkþættir ekki til staðar.
 - 2  Þrír eða fjórir verkþættir eru stórlega ábótavant.
-- 4	 Tveir verkþættir eru stórlega ábótavant.
+- 4	 Tveir verkþættir eru stórlega ábótavant. 
 - 6	 Einn verkþáttur vantar eða stórlega ábótavant.
 - 8	 Allir verkþættir útfærðir en ábótavant.
 - 10 Allir verkþættir eru vel útfærðir. 
@@ -29,7 +29,7 @@ Eftirfarandi þarf að vera uppfyllt fyrir lokaskil og námsmat:
 
 1.	Á forsíðu apps, hýstur á miðlara skal vera tengill á Github sem innheldur skýrslu, kóða og gögn.
 2.	Á Github skal vera allur kóði, skrár og gögn (t.d. gagnagrunnur). 
-4.	Í **readme.md** (skýrsla)
+3.	Í **readme.md** (skýrsla)
     1.	Höfundar, áfangaheiti, Tölvubraut, skóli.
     1.  Tengill á hýstan vef.
     1.	Verkefnalýsing (Verkefni 1) og útskýring á notendavirkni afurðar.
@@ -40,7 +40,6 @@ Eftirfarandi þarf að vera uppfyllt fyrir lokaskil og námsmat:
     1.	Heimildir.
     1.	Taka fram vinnuflæði og verkaskiptingu (Verkefni 2), tengil á _Github Projects_.  <!-- skjámynd af Network graph (_Insights -> Network_) -->
     1.	Samantekt. Hver væru næstu skref, ókláruð virkni og verkþættir sem fóru ekki í afurð.
-   
 
 Skilið á Innu vefslóð á GitHub sem inniheldur öll gögn og vefslóð á miðlara. <br>
 Halda þarf stutta kynningu á afurð í kennslustund í síðasta tímanum.
