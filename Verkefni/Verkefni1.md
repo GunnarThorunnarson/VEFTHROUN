@@ -6,9 +6,8 @@
 ### Verkefnalýsing 
 Búið til organization í Github fyrir hópinn ykkar og búið til readme.md sem inniheldur eftirfarandi:
 
-1. (30%) Ítarleg verkefnalýsing byggð á notendasögum (user stories) og sviðsmyndum (user scenarios / cases).
-1. (10%) Flæðirit (e. user flows) fyrir vef/app (skissur)
-1. (60%) Wireframes fyrir vef/app (hugbúnaður)
+1. (40%) Ítarleg verkefnalýsing byggð á notendasögum (user stories), sviðsmyndum (user scenarios). 
+1. (60%) Wireflows (Wireframes + flowchart) fyrir vef/app (skissur eða hugbúnaður).
 
 ### Námsmat og skil
 * Gefið er fullt fyrir lið sem er fullnægjandi, hálft ef ábótavant.
