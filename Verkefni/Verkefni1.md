@@ -1,6 +1,6 @@
 ## Verkefni 1 
 
-- Hugmyndavinna og hönnun
+- Hugmyndavinna
 - 10% af heildareinkunn
 
 ### Verkefnalýsing 
