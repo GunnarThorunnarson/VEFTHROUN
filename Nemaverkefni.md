@@ -68,3 +68,9 @@
 - Stafli: Angular, Firebase, Node.js
 
 ---
+
+### [AwsomeQuest](https://github.com/AwesomeQuest/VEFTH2VTH05DU-master/wiki/Website-aims,-functions,-and-notes.)
+- Torfi
+- Stafli: Angular
+
+---
