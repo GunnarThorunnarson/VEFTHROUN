@@ -1,6 +1,6 @@
 ## Verkefni 2 (15%)
 
-Tímaverkefni þar sem unnið er með skipulag og vinnuflæði í vefþróun, sjá nánar hér [efni](https://github.com/GunnarThorunnarson/VEFTHROUN/wiki/Skipulag-og-vinnufl%C3%A6%C3%B0i).
+Tímaverkefni þar sem unnið er með [skipulag og vinnuflæði](https://github.com/GunnarThorunnarson/VEFTHROUN/wiki/Skipulag-og-vinnufl%C3%A6%C3%B0i).
 
 <!-- 
 Veljið vinnuflæði við hæfi:
