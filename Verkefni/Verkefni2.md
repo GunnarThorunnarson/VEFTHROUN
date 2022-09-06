@@ -19,10 +19,10 @@ Veljið vinnuflæði við hæfi:
 #### 2. Git & GitHub með VS Code, einstaklingsverkefni (3%)
 
 1. búðu til python skrá (halló heimur) með [Flask](https://flask.palletsprojects.com/en/2.2.x/) í virtual umhverfi (venv).
-1. settu upp git og útbúðu .gitignore skrá með venv og .vscode.
-1. sýndu fram á git notkun; stage, commit, diff, branch og merge í VS Code.
+1. útbúðu .gitignore skrá með venv og .vscode.
+1. sýndu fram á  [git notkun í VS Code](https://github.com/GunnarThorunnarson/VEFTHROUN/wiki/Skipulag-og-vinnufl%C3%A6%C3%B0i#git); stage, commit, diff, branch og merge.
 1. tengdu Git við GitHub í VSCode og sýndu fram á notkun með push og pull. 
-1. _(Sýndu notkun á [GitHub Pull Requests and Issues](https://code.visualstudio.com/docs/editor/github) extension í VS Code)._
+1. skoðaðu Git extensions í VS Code td: [GitHub Pull Requests and Issues](https://code.visualstudio.com/docs/editor/github), GiLens, Git Historyþ
 
 ---
 
