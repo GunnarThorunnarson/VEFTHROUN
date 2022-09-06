@@ -28,7 +28,7 @@ Veljið vinnuflæði við hæfi:
 
 #### 3. GitHub vinnuflæði, hópverkefni (5%)
 
-1. Setjið upp GitHub vinnuflæði (master- og feature branch).  
+1. Setjið upp GitHub vinnuflæði (master- og feature branch) fyrir lítið Flask sýnidæmi.  
 1. Framkvæmið [review pull requests](https://github.com/skills/review-pull-requests) og leysið [merge conflict](https://github.com/skills/resolve-merge-conflicts). 
 1. Útbúið beta release, sjá [release based workflow](https://github.com/skills/release-based-workflow)
 
