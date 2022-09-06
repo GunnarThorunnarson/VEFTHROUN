@@ -18,7 +18,7 @@ Veljið vinnuflæði við hæfi:
 
 #### 2. Git & GitHub með VS Code, einstaklingsverkefni (3%)
 
-1. búðu til python skrá (halló heimur) með Flask í virtual umhverfi (venv).
+1. búðu til python skrá (halló heimur) með [Flask](https://flask.palletsprojects.com/en/2.2.x/) í virtual umhverfi (venv).
 1. settu upp git og útbúðu .gitignore skrá með venv og .vscode.
 1. sýndu fram á git notkun; stage, commit, diff, branch og merge í VS Code.
 1. tengdu Git við GitHub í VSCode og sýndu fram á notkun með push og pull. 
