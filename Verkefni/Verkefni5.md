@@ -1,13 +1,11 @@
 ## Verkefni 5 (25%)
 
-### Gagnagrunnur og gagnavinnsla
-
 Hér er metið **Model** hluta í MVC. Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps útfrá verkefnalýsingu:
 
 1. Gagnagrunnshönnun og lýsing gagna í vefkerfi.
+1. Uppsetning og stilling gagnagrunns og/eða vefþjónustu (API, ORM). 
 1. Gagnavinnsla og fyrirspurnir. 
-1. Uppsetning og stilling gagnagrunns og vefþjónustu (td. API, ORM, SQL). 
-1. Uppsetning á miðlara og hýsing. 
+1. Sérvirkni (e. business logic).
 
 
 ### Námsmat og skil
