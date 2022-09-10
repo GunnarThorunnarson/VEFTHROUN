@@ -1,7 +1,6 @@
 ## Verkefni 3 (25%)
 
-### Viðmót
-Hér er metið **View** hluta í MVC. Smíða skal vefapp útfrá verkefnalýsingu. Skoðað eru eftirfarandi verkþættir í þessum hluta:
+Smíða skal vefapp útfrá verkefnalýsingu. Hér er metið **View** hluta í MVC. Skoðað eru eftirfarandi verkþættir í þessum hluta:
 
 1. Uppsetning 
     - responsive web design, mobile first.
