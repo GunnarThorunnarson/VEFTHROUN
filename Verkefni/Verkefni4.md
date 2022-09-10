@@ -3,7 +3,7 @@
 ### Vefforritun 
 Smíða skal vefapp útfrá verkefnalýsingu. Hér er metið **Control** og **Model** hluta í MVC. Skoðað eru eftirfarandi verkþættir í þessum hluta:
 
-1. Uppsetning og notkun með framework (t.d. Flask, React) og klösum.
+1. Uppsetning og notkun á framework (t.d. Flask, React) og klösum.
 1. Beining (e. routing) útfærslur.
 1. Notkun á viðbótum (extensions) og söfnum.
 1. Sérvirkni t.d. kort og reiknirit.
