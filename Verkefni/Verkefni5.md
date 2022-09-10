@@ -1,9 +1,9 @@
 ## Verkefni 5 (25%)
 
-Hér er metið **Model** hluta í MVC. Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps útfrá verkefnalýsingu:
+Smíða skal vefapp útfrá verkefnalýsingu. Hér er metið **Model** hluta í MVC. Skoðað eru eftirfarandi verkþættir í þessum hluta:
 
 1. Gagnagrunnshönnun og lýsing gagna í vefkerfi.
-1. Uppsetning og stilling gagnagrunns og/eða vefþjónustu (API, ORM). 
+1. Uppsetning og stilling gagnagrunns og vefþjónustu (API, ORM). 
 1. Gagnavinnsla og fyrirspurnir. 
 1. Sérvirkni (e. business logic).
 
