@@ -1,6 +1,5 @@
 ## Verkefni 4 (25%)
 
-### Vefforritun 
 Smíða skal vefapp útfrá verkefnalýsingu. Hér er metið **Control** hluta í MVC. Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
 1. Notkun með ramma (e. framework) t.d. Flask eða React og klasanotkun.
