@@ -1,6 +1,6 @@
 ## Nemendaverkefni
 
-## Haust 20222
+## Haust 2022
 
 lets-make-music
 - Fannar, Sæbjörn, Ágúst, Guðjón
@@ -31,32 +31,33 @@ D&D,
 - https://github.com/Vefthrounn-Verkefni/verkefna-repo#readme
 - Stack: Flask, Semantic Ui, MySql og SqlAlchemy, PythonAywhere
 
----
-
 ### Heimavinna
 - Jónas, Stefán, Snorri
 - https://github.com/Heimavinna/Heimavinna/blob/main/skyrsla.md
 - Stack: Flask, SQLAlchemy, Python Anywhere.
-
----
 
 ### Kambria
 - Tristan, Alexander, Daniel Þór
 - https://github.com/Project-Kambria/Kambria#sk%C3%BDrsla
 - React Native, Firebase, NodeJS
 
----
-
 ### Baenda
 - Kacper, Egill, Elías Andri
 - https://github.com/baenda
 - Stack: MongoDB, Express, React og Node.js
 
+### Leikjasíða
+- Davíð
+- https://github.com/Davygod/Vefforritun-II
+- Flask
+
+### Sveppaleit
+Benja
+https://github.com/VEFTH2VTH05DU
+
 ---
 
 ## Haust 2020
-
----
 
 ### Tjalda
 - Mikael - Smári - Tristan
@@ -64,7 +65,6 @@ D&D,
 - https://tjalda.github.io/Utilegan/
 - Stafli: Vue.js, Bulma, Firebase
 
----
 
 ### food
 - Anh-Guðrún-Lorraine
@@ -72,7 +72,6 @@ D&D,
 - https://foodappvef.netlify.app/
 - stafli: Vue.js, Scrape, GoogleMyMaps  
 
----
 
 ### Stæ 
 - Tumi - Oliver
@@ -81,7 +80,6 @@ D&D,
 - stafli: JavaScript, Materialize, jQuery, MathJax, MathJS, MathQuill
 
 ---
-
 
 ## Haust 2019
 
@@ -95,10 +93,12 @@ D&D,
 - Reyn, Birkir, Victor
 - Stafli: Angular, Firebase, Node.js
 
----
-
 ### [AwsomeQuest](https://github.com/AwesomeQuest/VEFTH2VTH05DU-master/wiki/Website-aims,-functions,-and-notes.)
 - Torfi
 - Stafli: Angular
+
+### [DnD](https://github.com/Kristjan-O-Ragnarsson/DnD-Web)
+- Daníel, Kristján, Sigmar
+- React, MySQL, Semantic UI, Linux, Docker, Azure
 
 ---
