@@ -1,7 +1,30 @@
 ## Nemendaverkefni
 
+## Haust 20222
+
+lets-make-music
+- Fannar, Sæbjörn, Ágúst, Guðjón
+- https://github.com/Vef2-musc
+- Stack: Flask
+
+Stafli
+- Faud, Sveinn, Karl, Elvar
+- https://github.com/vefthroun4
+- Stack: Flask
+
+Putti
+- Anton, Katla, Páll, Victor
+- https://github.com/Putti-V-1
+- Stack: React Native
+
+D&D, 
+- Hörður
+- https://github.com/hordur99/DMs_Familiar
+- Stack: React
 
 ---
+
+## Vor 2022
 
 ### LookCool
 - Hákon, Þórður, Máni
@@ -31,10 +54,7 @@
 
 ---
 
-### [Strendingur - heimasíð](http://tolvubraut.is/VEF4-Haust19-TenderStrendingur/)
-- [Wiki](https://github.com/Robertingi00/Tender-Strendingur/wiki/Sk%C3%BDrsla)
-- Kypler Lloyd, Pétur Steinn Guðmundsson, Róbert Ingi Hálfdanarson
-- Stafli: MERN stendur fyrir MongoDB, Express, React og node. Svo er Apollo graphql server og clinet sér um api request-in.
+## Haust 2020
 
 ---
 
@@ -61,6 +81,14 @@
 - stafli: JavaScript, Materialize, jQuery, MathJax, MathJS, MathQuill
 
 ---
+
+
+## Haust 2019
+
+### [Strendingur - heimasíð](http://tolvubraut.is/VEF4-Haust19-TenderStrendingur/)
+- [Wiki](https://github.com/Robertingi00/Tender-Strendingur/wiki/Sk%C3%BDrsla)
+- Kypler Lloyd, Pétur Steinn Guðmundsson, Róbert Ingi Hálfdanarson
+- Stafli: MERN stendur fyrir MongoDB, Express, React og node. Svo er Apollo graphql server og clinet sér um api request-in.
 
 ### Amigo
 - [Amigo Githbub](https://github.com/omegindino/amigo)
