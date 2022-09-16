@@ -19,7 +19,7 @@ Putti
 
 D&D, 
 - Hörður
-- https://github.com/hordur99/DMs_Familiar
+- [https://github.com/hordur99/DMs_Familiar](https://github.com/hordur99/dms_familiar)
 - Stack: React
 
 ---
