@@ -9,17 +9,17 @@
 
 ## Haust 2022
 
-lets-make-music
+### lets-make-music
 - Fannar, Sæbjörn, Ágúst, Guðjón
 - https://github.com/Vef2-musc
-- Stack: Flask
+- Stack: Flask, Firebase
 
-Stafli
+### Stafli
 - Faud, Sveinn, Karl, Elvar
 - https://github.com/vefthroun4
-- Stack: Flask
+- Stack: Flask, SQL
 
-Putti
+### Putti
 - Anton, Katla, Páll, Victor
 - https://github.com/Putti-V-1
 - Stack: React Native
