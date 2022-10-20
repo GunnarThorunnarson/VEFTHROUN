@@ -1,4 +1,11 @@
 ## Nemendaverkefni
+- 3 saman í hóp.
+
+---
+
+## Vor 2023
+
+---
 
 ## Haust 2022
 
@@ -17,10 +24,12 @@ Putti
 - https://github.com/Putti-V-1
 - Stack: React Native
 
+<!--
 D&D, 
 - Hörður
 - [https://github.com/hordur99/DMs_Familiar](https://github.com/hordur99/dms_familiar)
 - Stack: React
+-->
 
 ---
 
