@@ -11,12 +11,12 @@ Veljið vinnuflæði við hæfi:
 
 ---
 
-#### 1. Github, einstaklingsverkefni (2%)
+#### 1. Github, einstaklingsverkefni (20%)
 1. Lærðu á GitHub. Fylgdu eftir [Introduction to Github](https://github.com/skills/introduction-to-github) (repositories, branches, commits og pull requests) og búðu til profile README.
 
 ---
 
-#### 2. Git & GitHub með VS Code, einstaklingsverkefni (3%)
+#### 2. Git & GitHub með VS Code, einstaklingsverkefni (20%)
 
 1. búðu til python skrá (halló heimur) með [Flask](https://flask.palletsprojects.com/en/2.2.x/) í virtual umhverfi (venv).
 1. útbúðu .gitignore skrá með venv og .vscode.
@@ -26,7 +26,7 @@ Veljið vinnuflæði við hæfi:
 
 ---
 
-#### 3. GitHub vinnuflæði, hópverkefni (5%)
+#### 3. GitHub vinnuflæði, hópverkefni (30%)
 
 1. Setjið upp GitHub vinnuflæði (master- og feature branch) fyrir lítið Flask sýnidæmi.  
 1. Framkvæmið [review pull requests](https://github.com/skills/review-pull-requests) og leysið [merge conflict](https://github.com/skills/resolve-merge-conflicts). 
@@ -34,7 +34,7 @@ Veljið vinnuflæði við hæfi:
 
 ---
 
-#### 4. Skipulag með Github Projects, hópverkefni (5%)
+#### 4. Skipulag með Github Projects, hópverkefni (30%)
 - Fylgið [Scrum](https://www.scrum.org/resources/what-is-scrum) aðferðafræði við vefþróun.
 - Gerið viku vinnuáætlun með [Github Projects Boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) (To do, In progress, Done) útfrá verkefnalýsingu (verkefni 1). Sjá [sýnidæmi](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/myndir/Projects.png)
 - Vinnið með [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues#filtering) í Github.
