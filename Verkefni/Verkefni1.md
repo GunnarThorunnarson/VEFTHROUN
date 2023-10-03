@@ -1,4 +1,6 @@
 ## Verkefni 1 
+**TODO Haust 2023**: 
+Skoða fleiri nálganir t.d. [double dimond](https://www.designcouncil.org.uk/our-resources/the-double-diamond/)  _ fá álit frá Smára/vefskála_
 
 - Hugmyndavinna
 - 10% af heildareinkunn
