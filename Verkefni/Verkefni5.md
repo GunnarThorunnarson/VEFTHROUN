@@ -23,9 +23,8 @@ Einkunn er byggð á vinnuframlagi í hóp og ofangreindum verkþáttum.
 - 9	 Allir verkþættir útfærðir en einn er ábótavant.
 - 10 Allir verkþættir eru vel útfærðir. 
 
-Fyrir hverja 2 klukkustundir sem nemandi mætir ekki (eða er óvirkur) í tíma á tímabilinu frá 19.09 til 13.10 dregst **0,5** frá einkunn fyrir verkefni: 3, 4 og 5 hjá viðkomandi. Þetta á ekki við ef nemandi er veikur eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið.
-
-Sjá **Verkefni 5** fyrir fyrirkomulag á skilum.
+#### Verkefni 2, 3, 4 og 5:
+Fyrir hverja 2 x 50 mín sem nemandi mætir ekki (eða er óvirkur) í tíma dregst **0,5** frá einkunn hjá viðkomandi. Þetta á ekki við ef nemandi er veikur eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið.
 
 ---
 
@@ -38,12 +37,12 @@ Eftirfarandi þarf að vera uppfyllt fyrir lokaskil og námsmat:
 3.	Í **readme.md** (skýrsla)
     1.	Höfundar, áfangaheiti, Tölvubraut, skóli.
     1.  Tengill á hýstan vef.
-    1.	Verkefnalýsing (Verkefni 1).
+    1.	Verkefnalýsing og teikningar (Verkefni 1).
     1.	Taka fram innihald stafla, framework og söfn. 
     1.	Skjámyndir af vefappi.
     1.	Tengill á youtube með stutta skjámyndsupptöku af notendavirkni sjá td. https://screencast-o-matic.com/ 
     1.	Gagnagrunnshönnun og lýsing gagna. 
-    1.	Skjámynd af vinnuflæði (Network graph, _Insights -> Network_) og tengil á _Github Projects_.  
+    1.	Skjámynd af vinnuflæði (Network graph, _Insights -> Network_). 
     1.	Samantekt. Hver væru næstu skref, ókláruð virkni.
 
 Skilið á Innu vefslóð á GitHub sem inniheldur öll gögn og vefslóð á miðlara. <br>
