@@ -46,3 +46,6 @@ Veljið vinnuflæði við hæfi:
 - Yfirferð og námsmat á sér stað í tíma.
 - Gefið er fullt fyrir þá liði sem eru fullnægjandi, hálft fyrir þá liði sem eru ábótavant. 
 - Skilið á Innu Github vefslóðir með lausnum.
+
+#### Verkefni 2, 3, 4 og 5:
+Fyrir hverja 2 x 50 mín sem nemandi mætir ekki (eða er óvirkur) í tíma dregst **0,5** frá einkunn hjá viðkomandi. Þetta á ekki við ef nemandi er veikur eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið.
