@@ -1,6 +1,6 @@
 ## Verkefni 3 (25%)
 
-Smíða skal vefapp útfrá verkefnalýsingu. Hér er metið **View** hluta í MVC. Skoðað eru eftirfarandi verkþættir í þessum hluta:
+Smíða skal vefapp útfrá verkefnalýsingu. Skoðað eru eftirfarandi verkþættir í þessum hluta:
 
 1. Uppsetning 
     - responsive web design, mobile first.
@@ -9,7 +9,6 @@ Smíða skal vefapp útfrá verkefnalýsingu. Hér er metið **View** hluta í M
 1. Viðmót (UI) 
     - leturgerð, litir, útlit og lögun.
     - grafík (SVG) og myndir.
-1. Viðmótsforritun 
     - einingar (menu, slider, loader osfrv) 
     - kvikun
 1. Notendaupplifun (UX) 
