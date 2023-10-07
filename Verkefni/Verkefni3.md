@@ -34,7 +34,7 @@ Einkunn er byggð á vinnuframlagi í hóp og ofangreindum verkþáttum.
 - 10 Allir verkþættir eru vel útfærðir. 
 
 
-Fyrir hverja 2 klukkustundir sem nemandi mætir ekki (eða er óvirkur) í tíma á tímabilinu frá 19.09 til 13.10 dregst **0,5** frá einkunn fyrir verkefni: 3, 4 og 5 hjá viðkomandi. Þetta á ekki við ef nemandi er veikur eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið.
 
-Sjá **Verkefni 5** fyrir fyrirkomulag á skilum.
+#### Verkefni 2, 3, 4 og 5:
+Fyrir hverja 2 x 50 mín sem nemandi mætir ekki (eða er óvirkur) í tíma dregst **0,5** frá einkunn hjá viðkomandi. Þetta á ekki við ef nemandi er veikur eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið.
 
