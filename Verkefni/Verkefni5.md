@@ -1,12 +1,12 @@
 ## Verkefni 5 (25%)
 
-Smíða skal vefapp útfrá verkefnalýsingu. Hér er metið **Model** hluta í MVC. Skoðað eru eftirfarandi verkþættir í þessum hluta:
+Smíða skal vefapp útfrá verkefnalýsingu. Skoðað eru eftirfarandi verkþættir í þessum hluta:
 
+1. Rest API útfærsla með Flask og klasanotkun.
 1. Gagnagrunnshönnun og lýsing gagna í vefkerfi.
-1. Uppsetning og stilling gagnagrunns og vefþjónustu (API, ORM). 
+1. Uppsetning og stilling gagnagrunns og vefþjónustu. 
 1. Gagnavinnsla og fyrirspurnir. 
-1. Sérvirkni (e. business logic).
-
+1. Uppsetning stafla (e. stack) á miðlara og hýsing.
 
 ### Námsmat og skil
 Einkunn er byggð á vinnuframlagi í hóp og ofangreindum verkþáttum.
