@@ -1,6 +1,11 @@
-## Verkefni 4 (25%)
+## Verkefni 4 (25%) _í visnnslu Haust 2023_
 
-Smíða skal vefapp útfrá verkefnalýsingu. Hér er metið React og typescript notkun. 
+Smíða skal vefapp útfrá verkefnalýsingu. Hér er metið eftirfarandi:
+
+- React.
+- typescript notkun.
+- sérvirkni (e. business logic).
+
 
 ---
 
