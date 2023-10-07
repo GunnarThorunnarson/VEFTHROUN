@@ -1,6 +1,6 @@
 ## Verkefni 4 (25%) _í visnnslu Haust 2023_
 
-Smíða skal vefapp útfrá verkefnalýsingu. Hér er metið eftirfarandi:
+Smíða skal vefapp útfrá verkefnalýsingu. Skoðað eru eftirfarandi verkþættir í þessum hluta:
 
 - React.
 - typescript notkun.
