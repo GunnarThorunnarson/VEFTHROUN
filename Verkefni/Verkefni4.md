@@ -1,6 +1,6 @@
 ## Verkefni 4 (25%) _í visnnslu Haust 2023_
 
-Smíða skal vefapp útfrá verkefnalýsingu. Skoðað eru eftirfarandi verkþættir í þessum hluta:
+Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Skoðað eru eftirfarandi verkþættir í þessum hluta:
 
 1. [ ] React.
 1. [ ] Sérvirkni (e. business logic).
