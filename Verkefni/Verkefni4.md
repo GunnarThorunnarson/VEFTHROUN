@@ -2,24 +2,21 @@
 
 Smíða skal vefapp útfrá verkefnalýsingu. Skoðað eru eftirfarandi verkþættir í þessum hluta:
 
-1. React.
-   - [ ] 1.
-   - [ ] 2.
-   - [ ] 3.
-2. Sérvirkni (e. business logic)
-3. ?
+1. [ ] React.
+1. [ ] Sérvirkni (e. business logic).
+1. [ ] Uppsetning stafla (e. stack) á miðlara og hýsing.
 
 ---
 
 ### Námsmat og skil
 Einkunn er byggð á vinnuframlagi í hóp og ofangreindum verkþáttum.
 
-- 0	 Verkþættir eru ekki til staðar.
+- 0  Verkþættir eru ekki til staðar.
 - 2  Allir verkþættir eru stórlega ábótavant.
 - 4  Tveir verkþættir eru stórlega ábótavant.
-- 6	 Einn verkþáttur er stórlega ábótavant.
-- 8	 Allir verkþættir útfærðir en tveir eru ábótavant.
-- 9	 Allir verkþættir útfærðir en einn er ábótavant.
+- 6  Einn verkþáttur er stórlega ábótavant.
+- 8  Allir verkþættir útfærðir en tveir eru ábótavant.
+- 9  Allir verkþættir útfærðir en einn er ábótavant.
 - 10 Allir verkþættir eru vel útfærðir.
   
 #### Vinnusemi fyrir verkefni 2, 3, 4 og 5:
