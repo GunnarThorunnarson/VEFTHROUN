@@ -1,6 +1,6 @@
 ## Verkefni 5 (25%) _Í vinnslu_
 
-Smíða skal vefapp útfrá verkefnalýsingu. Skoðað eru eftirfarandi verkþættir í þessum hluta:
+Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Skoðað eru eftirfarandi verkþættir í þessum hluta:
 
 1. [ ] Gagnagrunnshönnun og lýsing gagna í vefkerfi.
 1. [ ] Uppsetning og stilling gagnagrunns og vefþjónustu (API).
