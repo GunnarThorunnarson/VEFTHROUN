@@ -3,7 +3,6 @@
 Smíða skal vefapp útfrá verkefnalýsingu. Skoðað eru eftirfarandi verkþættir í þessum hluta:
 
 - React.
-- typescript notkun.
 - sérvirkni (e. business logic).
 
 
