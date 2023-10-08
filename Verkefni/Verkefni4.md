@@ -3,11 +3,11 @@
 Smíða skal vefapp útfrá verkefnalýsingu. Skoðað eru eftirfarandi verkþættir í þessum hluta:
 
 1. React.
-  - [ ] 1.
-  - [ ] 2.
-  - [ ] 3.
-2. [ ] Sérvirkni (e. business logic)
-3. [ ] ?
+   - [ ] 1.
+   - [ ] 2.
+   - [ ] 3.
+2. Sérvirkni (e. business logic)
+3. ?
 
 ---
 
