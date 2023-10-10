@@ -1,9 +1,11 @@
 ## Nemendaverkefni
-- 3 saman í hóp.
+
+## Haust 2023
 
 ---
 
 ## Vor 2023
+mun bæta við bráðlega.
 
 ---
 
