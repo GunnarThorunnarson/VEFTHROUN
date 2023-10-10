@@ -1,14 +1,22 @@
 ## Verkefni 5 (25%) _Í vinnslu_
 
-Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Skoðað eru eftirfarandi verkþættir í þessum hluta:
+Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi. Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
 1. [ ] Rest API útfærsla með Flask (og klasanotkun).
-1. [ ] Gagnagrunnshönnun og lýsing gagna í vefkerfi.
-1. [ ] Uppsetning og stilling gagnagrunns og vefþjónustu.
-1. [ ] Gagnavinnsla og fyrirspurnir. 
+1. [ ] Gagnagrunnshönnun, uppsetning og stilling gagnagrunns, gagnavinnsla.
+1. [ ] Vefþjónustur og fyrirspurnir. 
 
 ### Námsmat og skil
-Einkunn er byggð á vinnuframlagi í hóp og ofangreindum verkþáttum.
+Einkunn er byggð á vinnuframlagi í teymi og ofangreindum verkþáttum:
+
+Einkunn fyrir hvern verkþátt:
+- 4/4 lausn er vel útfærð.
+- 3/4 lausn er smávægilega ábótavant (vantar smá upp á).
+- 2/4 lausn er ábótavant, helmingur er vel útfærður.
+- 1/4 lausn er stórlega ábótavant, tíma og kóðavinna lögð í lausn.
+- 0/4 lausn vantar eða óunnin.
+
+eða 
 
 - 0	 Verkþættir eru ekki til staðar.
 - 1  Allir verkþættir eru stórlega ábótavant.
