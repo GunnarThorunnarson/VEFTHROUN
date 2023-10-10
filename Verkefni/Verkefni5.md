@@ -2,9 +2,9 @@
 
 Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Skoðað eru eftirfarandi verkþættir í þessum hluta:
 
-1. [ ] Gagnagrunnshönnun og lýsing gagna í vefkerfi.
-1. [ ] Uppsetning og stilling gagnagrunns og vefþjónustu (API).
 1. [ ] Rest API útfærsla með Flask (og klasanotkun).
+1. [ ] Gagnagrunnshönnun og lýsing gagna í vefkerfi.
+1. [ ] Uppsetning og stilling gagnagrunns og vefþjónustu.
 1. [ ] Gagnavinnsla og fyrirspurnir. 
 
 ### Námsmat og skil
