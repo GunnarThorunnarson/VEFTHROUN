@@ -5,7 +5,7 @@
 ### Verkefnalýsing 
 Búið til [team og organization](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-setup-a-GitHub-organization,-project-and-team) í Github fyrir hópinn ykkar (bjóða kennara) og búið til readme.md sem inniheldur eftirfarandi:
 
-- [ ] (20%) Verkefnalýsing byggð á notendasögum (user stories) og sviðsmyndum (user scenarios). 
+- [ ] (20%) Verkefnalýsing byggð á notendasögum (user stories) og sviðsmyndum (user scenarios). Nemendur ræða út hugmynd sem aðili hefur af kerfinu einn í einu. svo umræður og byrja á use case. Gera User scenes ( á pappír) og taka myndir til hafa með í skýrslu.
 - [ ] (80%) Figma (mockups, wireframes, prototype, flowchart) fyrir vefapp.
 
 ### Námsmat og skil
