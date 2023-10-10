@@ -22,9 +22,9 @@ Lærðu á GitHub. Fylgdu eftir [Introduction to Github](https://github.com/skil
 
 #### 3. GitHub vinnuflæði (hópverkefni) (70%)
 
-- Setjið upp GitHub vinnuflæði (master- og feature branch).  
-- Framkvæmið [review pull requests](https://github.com/skills/review-pull-requests) og leysið [merge conflict](https://github.com/skills/resolve-merge-conflicts). 
-- Útbúið beta release, sjá [release based workflow](https://github.com/skills/release-based-workflow)
+- [ ] Setjið upp GitHub vinnuflæði (master- og feature branch).  
+- [ ] Framkvæmið [review pull requests](https://github.com/skills/review-pull-requests) og leysið [merge conflict](https://github.com/skills/resolve-merge-conflicts). 
+- [ ] Útbúið beta release, sjá [release based workflow](https://github.com/skills/release-based-workflow)
 
 <!-- 
 Veljið vinnuflæði við hæfi:
@@ -35,9 +35,9 @@ Veljið vinnuflæði við hæfi:
 ---
 
 #### 4. Skipulag með Github Projects (hópverkefni) (30%)
-- Fylgið [Scrum](https://www.scrum.org/resources/what-is-scrum) aðferðafræði við vefþróun.
-- Gerið viku vinnuáætlun með [Github Projects Boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) (To do, In progress, Done) útfrá verkefnalýsingu (verkefni 1). Sjá [sýnidæmi](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/myndir/Projects.png)
-- Vinnið með [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues#filtering) í Github.
+- [ ] Fylgið [Scrum](https://www.scrum.org/resources/what-is-scrum) aðferðafræði við vefþróun.
+- [ ] Gerið viku vinnuáætlun með [Github Projects Boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) (To do, In progress, Done) útfrá verkefnalýsingu (verkefni 1). Sjá [sýnidæmi](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/myndir/Projects.png)
+- [ ] Vinnið með [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues#filtering) í Github.
 
 ---
 
