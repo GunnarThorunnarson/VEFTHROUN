@@ -43,8 +43,14 @@ Veljið vinnuflæði við hæfi:
 
 ### Námsmat og skil
 
-- Gefið er fullt fyrir þá liði sem eru fullnægjandi, hálft fyrir þá liði sem eru ábótavant. 
-- Skilið á Innu Github vefslóð á verkefni.
+Skilið á Innu Github vefslóð á verkefni.
 
+Einkunn fyrir hvern lið: 
+- 4/4 lausn er vel útfærð.
+- 3/4 lausn er smávægilega ábótavant (vantar smá upp á).
+- 2/4 lausn er ábótavant, helmingur er vel útfærður.
+- 1/4 lausn er stórlega ábótavant, tíma og kóðavinna lögð í lausn.
+- 0/4 lausn vantar eða óunnin.
+- 
 #### Verkefni 2, 3, 4 og 5:
 Fyrir hverja 2 x 50 mín sem nemandi mætir ekki (eða er óvirkur) í tíma dregst **0,5** frá einkunn hjá viðkomandi. Þetta á ekki við ef nemandi er veikur eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið.
