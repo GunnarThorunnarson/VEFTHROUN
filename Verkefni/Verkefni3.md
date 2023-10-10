@@ -5,7 +5,7 @@ Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 1. Uppsetning 
     - [ ] responsive web design, mobile first.
     - [ ] grindur (layout).
-    - [ ] template kerfi.
+    - [ ] template kerfi (JSX markup).
 1. Viðmót (UI) 
     - [ ] leturgerð, litir, útlit og lögun.
     - [ ] grafík (SVG) og myndir.
