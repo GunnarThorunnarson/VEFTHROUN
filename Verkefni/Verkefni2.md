@@ -5,12 +5,12 @@
 
 ---
 
-#### 1. Github (einstaklingsverkefni).
+#### 1. Github (einstaklings æfingarverkefni).
 1. Lærðu á GitHub. Fylgdu eftir [Introduction to Github](https://github.com/skills/introduction-to-github) (repositories, branches, commits og pull requests) og búðu til profile README.
 
 ---
 
-#### 2. Git & GitHub með VS Code (einstaklingsverkefni).
+#### 2. Git & GitHub með VS Code (einstaklings æfingarverkefni).
 
 1. búðu til python skrá (halló heimur) með [Flask](https://flask.palletsprojects.com/en/2.2.x/) í virtual umhverfi (venv).
 1. útbúðu .gitignore skrá með venv og .vscode.
