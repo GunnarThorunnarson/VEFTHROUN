@@ -1,6 +1,4 @@
 ## Verkefni 1 
-**TODO Haust 2023**: Skoða [double dimond](https://www.designcouncil.org.uk/our-resources/the-double-diamond/)  _tala við Smára/vefskóla_
-
 - Hugmyndavinna
 - 10% af heildareinkunn
 
@@ -19,3 +17,7 @@ Einkunn fyrir hvern lið:
 - 2/4 lausn er ábótavant, helmingur er vel útfærður.
 - 1/4 lausn er stórlega ábótavant, tíma og kóðavinna lögð í lausn.
 - 0/4 lausn vantar eða óunnin.
+
+<!--
+TODO: Skoða [double dimond](https://www.designcouncil.org.uk/our-resources/the-double-diamond/) 
+-->
