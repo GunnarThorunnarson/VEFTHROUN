@@ -6,7 +6,7 @@
 ---
 
 #### 1. Github (einstaklings æfingarverkefni).
-1. Lærðu á GitHub. Fylgdu eftir [Introduction to Github](https://github.com/skills/introduction-to-github) (repositories, branches, commits og pull requests) og búðu til profile README.
+Lærðu á GitHub. Fylgdu eftir [Introduction to Github](https://github.com/skills/introduction-to-github) (repositories, branches, commits og pull requests) og búðu til profile README.
 
 ---
 
