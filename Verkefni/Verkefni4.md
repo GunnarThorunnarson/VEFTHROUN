@@ -1,15 +1,23 @@
-## Verkefni 4 (25%) _í visnnslu Haust 2023_
+## Verkefni 4 (25%) _í vinnslu_
+Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi. Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
-Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Skoðað eru eftirfarandi verkþættir í þessum hluta:
-
-1. [ ] React.
+1. [ ] React uppsetning og notkun.
 1. [ ] Sérvirkni (e. business logic).
 1. [ ] Uppsetning stafla (e. stack) á miðlara og hýsing.
 
 ---
 
 ### Námsmat og skil
-Einkunn er byggð á vinnuframlagi í hóp og ofangreindum verkþáttum.
+Einkunn er byggð á vinnuframlagi í teymi og ofangreindum verkþáttum:
+
+Einkunn fyrir hvern verkþátt:
+- 4/4 lausn er vel útfærð.
+- 3/4 lausn er smávægilega ábótavant (vantar smá upp á).
+- 2/4 lausn er ábótavant, helmingur er vel útfærður.
+- 1/4 lausn er stórlega ábótavant, tíma og kóðavinna lögð í lausn.
+- 0/4 lausn vantar eða óunnin.
+
+eða 
 
 - 0  Verkþættir eru ekki til staðar.
 - 2  Allir verkþættir eru stórlega ábótavant.
