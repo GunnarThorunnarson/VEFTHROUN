@@ -22,9 +22,9 @@
 
 #### 3. GitHub vinnuflæði (hópverkefni) (70%)
 
-1. Setjið upp GitHub vinnuflæði (master- og feature branch).  
-1. Framkvæmið [review pull requests](https://github.com/skills/review-pull-requests) og leysið [merge conflict](https://github.com/skills/resolve-merge-conflicts). 
-1. Útbúið beta release, sjá [release based workflow](https://github.com/skills/release-based-workflow)
+- Setjið upp GitHub vinnuflæði (master- og feature branch).  
+- Framkvæmið [review pull requests](https://github.com/skills/review-pull-requests) og leysið [merge conflict](https://github.com/skills/resolve-merge-conflicts). 
+- Útbúið beta release, sjá [release based workflow](https://github.com/skills/release-based-workflow)
 
 <!-- 
 Veljið vinnuflæði við hæfi:
@@ -43,9 +43,8 @@ Veljið vinnuflæði við hæfi:
 
 ### Námsmat og skil
 
-- Yfirferð og námsmat á sér stað í tíma.
 - Gefið er fullt fyrir þá liði sem eru fullnægjandi, hálft fyrir þá liði sem eru ábótavant. 
-- Skilið á Innu Github vefslóðir með lausnum.
+- Skilið á Innu Github vefslóð á verkefni.
 
 #### Verkefni 2, 3, 4 og 5:
 Fyrir hverja 2 x 50 mín sem nemandi mætir ekki (eða er óvirkur) í tíma dregst **0,5** frá einkunn hjá viðkomandi. Þetta á ekki við ef nemandi er veikur eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið.
