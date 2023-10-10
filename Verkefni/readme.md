@@ -1,4 +1,4 @@
-## Verkefnin Haust 2025
+## Verkefnin Haust 2023
 
 1. Hönnun (10%)
 2. Hópvinnuflæði og skipulag (15%)
