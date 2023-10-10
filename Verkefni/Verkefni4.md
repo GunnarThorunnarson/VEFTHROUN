@@ -2,7 +2,7 @@
 Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi. Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
 1. [ ] Uppsetning og notkun á React og typescript.
-1. [ ] Gagnvirkni með React.
+1. [ ] Gagnvirkni og notendavirkni með React.
 1. [ ] Sérvirkni (e. business logic).
 1. [ ] Uppsetning stafla (e. stack) á miðlara og hýsing.
 
