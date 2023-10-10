@@ -1,11 +1,8 @@
-## Nemendaverkefni
+# Nemendaverkefni
 
 ## Haust 2023
 
----
-
-## Vor 2023
-mun bæta við bráðlega.
+Væntanlegt :)
 
 ---
 
