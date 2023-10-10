@@ -7,12 +7,12 @@ Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
     - [ ] grindur (layout).
     - [ ] template kerfi (JSX markup).
 1. Viðmót (UI) 
-    - [ ] leturgerð, litir, útlit og lögun (CSS safn)
+    - [ ] leturgerð, litir, útlit og lögun (CSS safn).
     - [ ] grafík (SVG) og myndir.
-    - [ ] UI einingar (menu, slider, loader osfrv) og kvikun
+    - [ ] UI einingar (menu, slider, loader osfrv) og kvikun.
 1. Notendaupplifun (UX) 
-    - [ ] notendavirkni 
-    - [ ] aðgengi 
+    - [ ] notendavirkni.
+    - [ ] aðgengi.
     - [ ] prófanir í mismunandi vöfrum og tæki (sími, spjaldtölva, tölva).
 
 ---
