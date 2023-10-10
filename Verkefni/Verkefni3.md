@@ -9,8 +9,7 @@ Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 1. Viðmót (UI) 
     - [ ] leturgerð, litir, útlit og lögun (CSS safn)
     - [ ] grafík (SVG) og myndir.
-    - [ ] UI einingar (menu, slider, loader osfrv) 
-    - [ ] kvikun
+    - [ ] UI einingar (menu, slider, loader osfrv) og kvikun
 1. Notendaupplifun (UX) 
     - [ ] notendavirkni 
     - [ ] aðgengi 
