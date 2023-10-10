@@ -19,7 +19,16 @@ Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 ---
 
 ### Námsmat og skil
-Einkunn er byggð á vinnuframlagi í teymi* og ofangreindum verkþáttum.
+Einkunn er byggð á vinnuframlagi í teymi og ofangreindum verkþáttum:
+
+Einkunn fyrir hvern verkþátt:
+- 4/4 lausn er vel útfærð.
+- 3/4 lausn er smávægilega ábótavant (vantar smá upp á).
+- 2/4 lausn er ábótavant, helmingur er vel útfærður.
+- 1/4 lausn er stórlega ábótavant, tíma og kóðavinna lögð í lausn.
+- 0/4 lausn vantar eða óunnin.
+
+Eða?
 
 - 0	 Verkþættir eru ekki til staðar.
 - 2  Allir verkþættir eru stórlega ábótavant.
