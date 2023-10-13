@@ -2,7 +2,7 @@
 
 Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi. Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
-1. [ ] Rest API útfærsla með Flask (og klasanotkun).
+1. [ ] Rest API útfærsla(Flask) og klasanotkun.
 1. [ ] Gagnagrunnshönnun, uppsetning og stilling gagnagrunns, gagnavinnsla.
 1. [ ] Vefþjónustur og fyrirspurnir. 
 
@@ -15,21 +15,6 @@ Einkunn fyrir hvern verkþátt:
 - 2/4 lausn er ábótavant, helmingur er vel útfærður.
 - 1/4 lausn er stórlega ábótavant, tíma og kóðavinna lögð í lausn.
 - 0/4 lausn vantar eða óunnin.
-
-eða 
-
-- 0	 Verkþættir eru ekki til staðar.
-- 1  Allir verkþættir eru stórlega ábótavant.
-- 2  Þrír verkþættir vantar.
-- 3  Þrír verkþættir eru stórlega ábótavant.
-- 4  Tveir verkþættir vantar.
-- 5	 Tveir verkþættir eru stórlega ábótavant.
-- 6	 Einn verkþáttur er stórlega ábótavant.
-- 7  Allir verkþættir útfærðir en þrír eru ábótavant.
-- 8	 Allir verkþættir útfærðir en tveir eru ábótavant.
-- 9	 Allir verkþættir útfærðir en einn er ábótavant.
-- 10 Allir verkþættir eru vel útfærðir.
-
 
 #### Vinnusemi fyrir verkefni 2, 3, 4 og 5:
 Fyrir hverja 2 x 50 mín sem nemandi mætir ekki (eða er óvirkur) í tíma dregst 0,5 frá einkunn hjá viðkomandi. Þetta á ekki við ef nemandi er veikur eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið.
