@@ -12,8 +12,10 @@ GitHub vinnuflæði og skipulag (hópverkefni):
 - [ ] Gerið viku vinnuáætlun með [Github Projects Boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) (To do, In progress, Done) útfrá verkefnalýsingu (verkefni 1). Sjá [sýnidæmi](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/myndir/Projects.png)
 - [ ] Vinnið með [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues#filtering) í Github.
 - [ ] Setjið upp GitHub vinnuflæði (master- og feature branch).  
-- [ ] Framkvæmið [review pull requests](https://github.com/skills/review-pull-requests) og leysið [merge conflict](https://github.com/skills/resolve-merge-conflicts). 
-- [ ] Útbúið beta release, sjá [release based workflow](https://github.com/skills/release-based-workflow)
+- [ ] Leysið [merge conflict](https://github.com/skills/resolve-merge-conflicts). 
+- [ ] Útbúið beta release, [release based workflow](https://github.com/skills/release-based-workflow)
+
+> ítarefni [Review pull requests](https://github.com/skills/review-pull-requests)
 
 <!-- 
 Veljið vinnuflæði við hæfi:
