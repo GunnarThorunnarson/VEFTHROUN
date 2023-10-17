@@ -1,16 +1,16 @@
-## Verkefni 3 (25%) _Í vinnslu_
+## Verkefni 3 (25%) _í vinnslu_
 Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi.
 Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
-1. Uppsetning (template)
+1. Uppsetning (template) (40%)
     - [ ] responsive web design, mobile first.
     - [ ] grindur (layout).
     - [ ] template kerfi.
-1. Viðmót (UI) 
+1. Viðmót (UI) (40%)
     - [ ] leturgerð, litir, útlit og lögun (CSS safn).
     - [ ] grafík (SVG) og myndir.
     - [ ] UI einingar (menu, slider, loader osfrv) og kvikun.
-1. Notendaupplifun (UX) 
+1. Notendaupplifun (UX) (20%)
     - [ ] notendavirkni.
     - [ ] aðgengi.
     - [ ] prófanir í mismunandi vöfrum og tæki (sími, spjaldtölva, tölva).
