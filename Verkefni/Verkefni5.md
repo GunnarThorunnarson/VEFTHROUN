@@ -2,7 +2,7 @@
 
 Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi. Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
-1. [ ] Rest API útfærsla(Flask) og klasanotkun.
+1. [ ] Rest API útfærsla (Flask) og klasanotkun.
 1. [ ] Gagnagrunnshönnun, uppsetning og stilling gagnagrunns, gagnavinnsla.
 1. [ ] Vefþjónustur og fyrirspurnir. 
 
