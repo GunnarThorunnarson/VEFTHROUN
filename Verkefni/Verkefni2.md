@@ -32,7 +32,7 @@ Einkunn:
 - 4/4 lausn er vel útfærð.
 - 3/4 lausn er smávægilega ábótavant (vantar smá upp á).
 - 2/4 lausn er ábótavant, helmingur er vel útfærður.
-- 1/4 lausn er stórlega ábótavant, tíma og kóðavinna lögð í lausn.
+- 1/4 lausn er stórlega ábótavant, tíma og vinna lögð í lausn.
 - 0/4 lausn vantar eða óunnin.
   
 #### Verkefni 2, 3, 4 og 5:
