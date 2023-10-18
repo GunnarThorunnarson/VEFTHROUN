@@ -7,8 +7,9 @@
 ### Verkefnalýsing 
 Búið til [team og organization](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-setup-a-GitHub-organization,-project-and-team) í Github fyrir hópinn ykkar (bjóða kennara) og búið til readme.md sem inniheldur eftirfarandi:
 
-- [ ] (20%) Verkefnalýsing byggð á notendasögum (user stories) og sviðsmyndum (user scenarios). Nemendur ræða út hugmynd sem aðili hefur af kerfinu einn í einu. svo umræður og byrja á use case. Gera User scenes ( á pappír) og taka myndir til hafa með í skýrslu.
-- [ ] (80%) Figma (mockups, wireframes, prototype, flowchart) fyrir vefapp.
+- [ ] (30%) Ítarleg verkefnalýsing byggð á; Double dimond, notendasögum (user stories) og sviðsmyndum (user scenarios). 
+- [ ] (20%) Wireframes og User scenes (á pappír). Taka ljósmyndir af skissum til hafa með í skýrslu.
+- [ ] (50%) Figma (mockups, prototype, flowchart) fyrir vefapp.
 
 ### Námsmat og skil
 Skilið á Innu GitHub slóð (readme.md) sem inniheldur ofangreint.
@@ -20,6 +21,3 @@ Einkunn fyrir hvern lið:
 - 1/4 lausn er stórlega ábótavant, tíma og vinna lögð í lausn.
 - 0/4 lausn vantar eða óunnin.
 
-<!--
-TODO: Skoða [double dimond](https://www.designcouncil.org.uk/our-resources/the-double-diamond/) 
--->
