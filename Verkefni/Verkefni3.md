@@ -7,7 +7,7 @@ Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
     - [ ] grindur (layout).
     - [ ] template kerfi.
 1. Viðmót (UI) (40%)
-    - [ ] leturgerð, litir, útlit og lögun.
+    - [ ] style guide (leturgerð, litir, icon).
     - [ ] grafík (SVG) og myndir.
     - [ ] UI einingar (menu, slider, loader osfrv) og kvikun.
 1. Notendaupplifun (UX) (20%)
