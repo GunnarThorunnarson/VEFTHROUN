@@ -13,8 +13,9 @@ Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 1. Notendaupplifun (UX) (20%)
     - [ ] notendavirkni.
     - [ ] aðgengi.
-    - [ ] prófanir í mismunandi vöfrum og tæki (sími, spjaldtölva, tölva).
 
+   <!-- - [ ] prófanir í mismunandi vöfrum og tæki (sími, spjaldtölva, tölva). -->
+   
 ---
 
 ### Námsmat og skil
